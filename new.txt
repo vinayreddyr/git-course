@@ -1,1 +1,3 @@
 hi vinay
+
+create an avatar for user...
